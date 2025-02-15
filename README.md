@@ -1,7 +1,5 @@
 # Funcionalidades de la Aplicación "Sopa de Letras"
 
-A continuación se presenta una descripción estética y detallada de los requerimientos de la aplicación:
-
 ---
 
 ## Menú Principal
